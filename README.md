@@ -120,11 +120,5 @@ client = OpenAI(
 MODEL = "模型名称"                       # 改成对应平台的模型 ID
 ```
 
-常见模型配置示例：
 
-| 平台       | base_url                          | 推荐模型          |
-|------------|-----------------------------------|-------------------|
-| MiniMax    | https://api.minimax.chat/v1      | MiniMax-M3        |
-| xAI (Grok) | https://api.x.ai/v1              | grok-4            |
-| 阿里云百炼 | https://dashscope.aliyuncs.com/compatible-mode/v1 | qwen-max |
-| DeepSeek   | https://api.deepseek.com         |
+
